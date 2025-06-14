@@ -11,3 +11,5 @@ j=10.1
 
 print(type(i))
 print(type(j))
+
+print(type(i))
