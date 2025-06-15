@@ -1,4 +1,2 @@
-
-# print(bool(0))
-# print(bool(-1))
-# print(bool(10.123))
+0][1])
+# print(grades[2][1]) 
